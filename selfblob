@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selfblog</title>
+     <link rel="stylesheet" href="selfblog.css" style="text/css">
+</head>
+<body>
+    <div id="div1">
+     <img src="IMG_20191123_173109.jpg" alt="harsh">
+     <h1>HARSH   AGARWAL <br>
+         WEB  DEVELOPER <br>
+         VITAN
+     </h1>
+     </div>
+     <div id="div2"> <h2><u>Contact me</u></h1>
+        <h3>HARSH AGARWAL</h3>
+        PERMANENT ADDRESS--->288,jogiyan mohalla,<br>
+        sambhal gate,<br>
+        Chandausi,DISTT.-Sambhal,UP <br>
+        India. <br>
+        TEMPORARY ADDRESS--->VIT Bhopal boys hostel, <br>
+         Vit bhopal university <br>
+         Bhopal,MP <br>
+         India.    <br> 
+        9149242933 <br>
+        harsh.agarwal2019@vitbhopal.ac.in <br>
+        </div>
+     <div id="div3"> <h2><u>Awards</u></h1>
+         1-Awarded the best student award in class 10th by the Agrasen Sabha Chandausi. <br>
+        2-Also awarded the same by the Shree Varshney Yuva Samooh on 22-1-2017. <br>
+        3-Participated  in the nationwide  Hindustan olympiad in 2015 and got 64.01 percentile in state ranking. <br>
+        4-Also participated in the QPAR International Olympiad of English Language in 2010. <br>
+        5-I got 1st division in the whole school for discipline in 2010. <br>
+        6- In 2011  I got the 2nd division in the whole school in punctuality. <br> <br><br><br>
+        </div>
+     <div id="div3a"> <h2><u>Skills</u></h2>
+        Exploring Computer Science. <br>  <br>
+        Love programming languages, especially  c/c++. <br><br>
+        Also interested in web development skills. <br><br><br><br><br>
+        
+        </div>
+     <div id="div4"><h1><u>Working</u></h1>
+        1-I completed the Full stack web development(LAMP-Stack) conducted by E and Ict academy of IIT kanpur at kanpur. <br><br>
+
+        I did  Pre-Eureka! B-Model workshops organised on 03/09/2019 by the Entrepreneurship cell, IIT Bombay, hosted by VIT. <br><br>
+        
+        I also participated in  internshala 1st class classroom internship talk conducted in VIT on 24-12-2019. <br><br>
+        
+        </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     <div id="div5">
+         <h2><u>Education</u></h2>
+       1- Currently at--->VIT Bhopal University / Bachelor of Technology <br>
+        Bhopal,MP<br>
+         India.<br>
+From:-July 2019<br>
+My programme name is computer science and engineering(cse)<br>
+Currently in 2nd semester. <br>
+
+2-Anglo Vedic Convent School/ Intermediate<br>
+Islamnagar road,Bahjoi;<br>
+From:-July  2018- April, 2019<br>
+I conducted my intermediate with science side(Physics,chemistry,Maths)<br>
+From the school.<br>
+
+3-R.R.K Sr.Sec.School/HighSchool<br>
+Sita Ashram road,Chandausi;<br>
+July  2016- April, 2017<br>
+I did high school with a cgpa of 9.4 by  the cbse board. <br>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <footer>
+        <div id="div6"> Terms and condition applied <br> All rights reserved</div>
+    </footer>
+</body>
+</html>
+
+
